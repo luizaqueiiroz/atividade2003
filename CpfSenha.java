@@ -11,7 +11,7 @@ public class CpfSenha {
 		System.out.println("Informe seu CPF");
 		cpf = ler.nextInt();
 		
-		if (cpf == 478129288) {
+		if (cpf == 1234567890) {
 			System.out.println("Informe sua senha");
 			senha = ler.nextInt();
 
